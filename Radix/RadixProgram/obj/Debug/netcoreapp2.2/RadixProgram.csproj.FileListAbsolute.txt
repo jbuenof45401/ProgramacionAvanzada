@@ -1,0 +1,11 @@
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\bin\Debug\netcoreapp2.2\RadixProgram.deps.json
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\bin\Debug\netcoreapp2.2\RadixProgram.runtimeconfig.json
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\bin\Debug\netcoreapp2.2\RadixProgram.runtimeconfig.dev.json
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\bin\Debug\netcoreapp2.2\RadixProgram.dll
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\bin\Debug\netcoreapp2.2\RadixProgram.pdb
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.csprojAssemblyReference.cache
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.csproj.CoreCompileInputs.cache
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.AssemblyInfoInputs.cache
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.AssemblyInfo.cs
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.dll
+C:\EANprojects\programacionAvanzada\Radix\RadixProgram\obj\Debug\netcoreapp2.2\RadixProgram.pdb

@@ -1,0 +1,9 @@
+C:\EANprojects\programacionAvanzada\program\Operacion\bin\Debug\netstandard2.0\Operacion.deps.json
+C:\EANprojects\programacionAvanzada\program\Operacion\bin\Debug\netstandard2.0\Operacion.dll
+C:\EANprojects\programacionAvanzada\program\Operacion\bin\Debug\netstandard2.0\Operacion.pdb
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.csproj.CoreCompileInputs.cache
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.AssemblyInfoInputs.cache
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.AssemblyInfo.cs
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.dll
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.pdb
+C:\EANprojects\programacionAvanzada\program\Operacion\obj\Debug\netstandard2.0\Operacion.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\MiProj.deps.json
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\MiProj.runtimeconfig.json
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\MiProj.runtimeconfig.dev.json
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\MiProj.dll
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\MiProj.pdb
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\Operacion.dll
+C:\EANprojects\programacionAvanzada\program\MiProj\bin\Debug\netcoreapp2.2\Operacion.pdb
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.csprojAssemblyReference.cache
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.csproj.CoreCompileInputs.cache
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.AssemblyInfoInputs.cache
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.AssemblyInfo.cs
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.csproj.CopyComplete
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.dll
+C:\EANprojects\programacionAvanzada\program\MiProj\obj\Debug\netcoreapp2.2\MiProj.pdb

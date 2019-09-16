@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MiProj/1.0.0": {
+        "dependencies": {
+          "Operacion": "1.0.0"
+        },
+        "runtime": {
+          "MiProj.dll": {}
+        }
+      },
+      "Operacion/1.0.0": {
+        "runtime": {
+          "Operacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
