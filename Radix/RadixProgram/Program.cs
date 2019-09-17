@@ -10,7 +10,7 @@ namespace RadixProgram
         {
             Console.WriteLine("Comenzando programa");
             /// inicialización de arreglos
-            int[] orArr = new int[5]{20,3,502,72,-10};//arreglo original
+            int[] orArr = new int[6]{20,3,502,394,72,-10};//arreglo original
             int[] anArr = new int[19]{-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9};//arreglo de ordenamiento
             //se abre un stream para escribir el el archivo result.txt.
             using (System.IO.StreamWriter file = 
